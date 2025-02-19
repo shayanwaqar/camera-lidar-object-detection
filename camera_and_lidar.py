@@ -2,9 +2,6 @@ import math
 import numpy as np
 from detect_circle import detect_circle
 
-#NAME: MUHAMMAD SHAYAN WAQAR
-#GTID: 903728467
-
 # Instructions:
 # Step 1: Review the detect_circle function to infer and detect a circle in the image 
 #         and compute its angle.
